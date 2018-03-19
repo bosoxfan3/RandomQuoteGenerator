@@ -1,0 +1,63 @@
+body {
+  background-color: rgb(44, 62, 80);
+}
+
+.main-area {
+  height: 200px;
+  margin-top: 50px;
+  padding-bottom: 60px;
+  background-color: white;
+  width: 50%;
+  position: relative;
+  left: 25%;
+  border-radius: 2px;
+}
+
+.joke {
+  text-align: center;
+  padding-top: 30px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.main-button {
+  position: absolute;
+  top: 180px;
+  left: 60%;
+  padding: 10px;
+  border-radius: 2px;
+  background-color: lightblue;
+  border-color: transparent;
+}
+
+.twitter-button {
+  position: absolute;
+  top: 180px;
+  left: 10%;
+  padding: 10px;
+  border-radius: 2px;
+  background-color: lightblue;
+  border-color: transparent;
+}
+
+img {
+  width: 20px;
+  position: relative;
+  top: 7px;
+  margin-top: -8px;
+}
+
+.button {
+  height: 100px;
+  width: 100px;
+  color: green;
+}
+
+p {
+  text-align: center;
+  color: white;
+}
+
+a {
+  color: white;
+}
